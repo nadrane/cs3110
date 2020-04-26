@@ -1,0 +1,1 @@
+let row_vector_add l1 l2 = List.map2 (fun x y -> x + y) l1 l2
